@@ -1,4 +1,4 @@
-```lua
+lua
 -- ============================================
 -- Infinity Gauntlet | Thanos Simulator
 -- "P" Edition — Hidden UI · 3000+ Lines
@@ -2393,4 +2393,3 @@ StarterGui:SetCore("SendNotification", {
 print("[P] Thanos Simulator loaded — Hidden build v3.0")
 print("[P] Executor:", Executor.Name, "| Mobile:", Executor.Mobile)
 print("[P] Weapons in DB:", #WeaponDB)
-``` 
